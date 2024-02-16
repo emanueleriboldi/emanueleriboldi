@@ -1,5 +1,3 @@
-### Hi there and welcome to my profile! 👋
-Hello! I'm from Italy🟩⚪🟥 and I love coding.
-- 🔭 I’m currently working with Java to learn more about it.
-- 🌱 I’m currently learning Laravel Framework, CSS Frameworks and Java
-- 📫 How to reach me: you can reach me via email to e.riboldi@stagiservizitecnici.com or emanuele.riboldi@outlook.it
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=emanueleriboldi&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=bootstrap,tailwind,express,dotnet&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,csharp,java,php,html,css,mysql&&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
